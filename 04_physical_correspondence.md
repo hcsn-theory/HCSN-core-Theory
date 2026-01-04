@@ -239,6 +239,8 @@ HCSN predicts:
 
 ---
 
+### The Ω ≈ Ωc regime corresponds to a dynamically protected geometric vacuum 
+
 ## Summary
 
 > Known physics is not wrong.
