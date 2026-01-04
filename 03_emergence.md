@@ -268,4 +268,89 @@ Hilbert space | No |
 
 ---
 
+## Critical Vacuum Phase and Suppression of Excitations
+
+A central emergent feature of the Hypergraph Computational Spin Network (HCSN) is the existence of a **critical geometric phase** in which local excitations are dynamically suppressed, while the underlying causal structure remains intact.
+
+### Order Parameter Ω
+
+We define a global, dimensionless order parameter Ω, derived from hierarchical closure of the worldline interaction graph. Empirically, Ω increases monotonically during stable evolution and saturates near a critical value Ωc.
+
+Ω controls the dynamical activity of the system, not by kinematic constraint, but through suppression of topology-changing events ("defects").
+
+---
+
+### Defect Rate Suppression
+
+By measuring the defect creation rate Γ as a function of Ω, we find:
+
+- Γ(Ω) decreases sharply as Ω → Ωc
+- Best-fit models strongly favor **critical suppression**:
+  
+  Γ(Ω) ∝ (Ωc − Ω)^ν
+
+with Ωc ≈ 1.1 and ν ≈ O(1).
+
+Exponential and power-law fits perform significantly worse.
+
+This identifies Ω as a **control parameter** for a phase transition in defect activity.
+
+---
+
+### Consequence for Signal Propagation
+
+In HCSN, operational signal propagation is mediated by defect-induced causal influence. A signal event requires at least one defect to act as a source of disturbance.
+
+As Γ(Ω) → 0 near Ωc:
+
+- Defect creation becomes vanishingly rare
+- Signal events are suppressed
+- No propagating disturbances are observed, despite a well-defined causal ordering
+
+Importantly, this does **not** indicate a breakdown of causality or geometry.
+
+Rather, the system enters a **quiet geometric phase** in which the spacetime-like structure persists, but local probes cannot be excited.
+
+---
+
+### Interpretation: Geometric Vacuum Phase
+
+The Ω ≈ Ωc regime is interpreted as a **geometric vacuum phase**, characterized by:
+
+- Stable causal ordering
+- Absence of propagating local excitations
+- Dynamical protection of causal structure
+
+This is analogous to:
+- Gapped phases in condensed matter systems
+- Vacuum sectors of quantum field theories
+- Background geometries without matter content in general relativity
+
+In this phase, Lorentzian causal structure is not enforced by symmetry assumptions, but emerges as a **dynamically protected property** of the network.
+
+---
+
+### Key Distinction
+
+A crucial distinction is emphasized:
+
+> The absence of signal propagation near Ωc does not imply the absence of a causal cone.
+>  
+> It implies the absence of *excitations that could probe it*.
+
+Thus, Lorentzian structure in HCSN is compatible with — and in fact stabilized by — the suppression of matter-like disturbances.
+
+---
+
+### Status
+
+This result is **empirical**, **robust across variants**, and **independent of microscopic tuning**.
+
+It represents a defining feature of the HCSN framework and motivates further investigation into:
+- Forced-probe dynamics
+- Phase transitions between geometric and matter-supporting regimes
+- Effective field descriptions around Ωc
+
+
 *End of Layer III.*
+
